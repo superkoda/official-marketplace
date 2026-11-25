@@ -1,0 +1,19 @@
+{
+    "name": "Official Integrations",
+    "url": "https://github.com/superkoda/official-marketplace/dist/integrations.json",
+    "description": "Official Superkoda marketplace with integrations for Superkoda platform",
+    "apps": [
+      {
+        "name": "Slack",
+        "downloadUrl": "https://raw.githubusercontent.com/superkoda/official-marketplace/refs/heads/main/dist/slack/slack-1.0.0.4.zip",
+        "description": "Slack integration.",
+        "tags": ["messaging", "productivity"],
+        "version": "1.0.0.4",
+        "requiredSuperkodaVersionMin": "0.1.4",
+        "requiredSuperkodaVersionMax": null,
+        "screenshots": [
+          "https://raw.githubusercontent.com/superkoda/official-marketplace/refs/heads/main/dist/slack/superkoda-slack-configuration.png"
+        ]
+      }
+    ]
+}
